@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/ADMIN/Downloads/lhuy/fullaader/fullaader.v
+source_file = 1, C:/Users/ADMIN/Downloads/lhuy/fullaader/Waveform.vwf
+source_file = 1, C:/Users/ADMIN/Downloads/lhuy/fullaader/fullaader.vwf
+source_file = 1, C:/Users/ADMIN/Downloads/lhuy/fullaader/db/fullaader.cbx.xml
+design_name = fullaader
+instance = comp, \a~I , a, fullaader, 1
+instance = comp, \b~I , b, fullaader, 1
+instance = comp, \cin~I , cin, fullaader, 1
+instance = comp, \comb~0 , comb~0, fullaader, 1
+instance = comp, \WideOr0~0 , WideOr0~0, fullaader, 1
+instance = comp, \sum~I , sum, fullaader, 1
+instance = comp, \cout~I , cout, fullaader, 1

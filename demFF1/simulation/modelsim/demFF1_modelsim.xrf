@@ -1,0 +1,12 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/ADMIN/Downloads/demFF1/demFF1.bdf
+source_file = 1, C:/Users/ADMIN/Downloads/demFF1/db/demFF1.cbx.xml
+design_name = demFF1
+instance = comp, \CLK~I , CLK, demFF1, 1
+instance = comp, \inst~0 , inst~0, demFF1, 1
+instance = comp, \inst2~0 , inst2~0, demFF1, 1
+instance = comp, \IN1~I , IN1, demFF1, 1
+instance = comp, \inst1~0 , inst1~0, demFF1, 1
+instance = comp, \q1~I , q1, demFF1, 1
+instance = comp, \q2~I , q2, demFF1, 1
+instance = comp, \q3~I , q3, demFF1, 1

@@ -1,0 +1,9 @@
+|demFF
+q1 <= <GND>
+q2 <= <GND>
+q3 <= <GND>
+CLK => ~NO_FANOUT~
+clear => ~NO_FANOUT~
+IN1 => ~NO_FANOUT~
+
+

@@ -1,0 +1,8 @@
+vendor_name = ModelSim
+source_file = 1, D:/FBGA project/congAND/congAND.bdf
+source_file = 1, D:/FBGA project/congAND/Waveform.vwf
+source_file = 1, D:/FBGA project/congAND/db/congAND.cbx.xml
+design_name = congAND
+instance = comp, \in1~I , in1, congAND, 1
+instance = comp, \in2~I , in2, congAND, 1
+instance = comp, \pin_name1~I , pin_name1, congAND, 1

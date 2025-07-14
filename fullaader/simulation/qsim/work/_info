@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\FBGA project\fullaader\simulation\qsim
+vfullaader
+Z1 !s100 Vj[Y:`zci=X1P4P6lD60S2
+Z2 Iz]LQH]bio?8j?2fcT81ha0
+Z3 V75bGJ_4[@RYkSQUaZc]?90
+Z4 dD:\FBGA project\fullaader\simulation\qsim
+Z5 w1698341735
+Z6 8fullaader.vo
+Z7 Ffullaader.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|fullaader.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1698341735.861000
+Z12 !s107 fullaader.vo|
+!s101 -O0
+vfullaader_vlg_check_tst
+!i10b 1
+Z13 !s100 PT185^cdAUjJL^f253IAO1
+Z14 ImM1DOFnLTFLDVPAIz<?Md2
+Z15 VCgbj?ZYYVkTKEQ_1`M5We3
+R4
+R5
+Z16 8fullaader.vt
+Z17 Ffullaader.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z18 !s108 1698341735.892000
+Z19 !s107 fullaader.vt|
+Z20 !s90 -work|work|fullaader.vt|
+!s101 -O0
+R10
+vfullaader_vlg_sample_tst
+!i10b 1
+Z21 !s100 :JO9BWDUjLcQJL<HP2D?;0
+Z22 IE]=N75gbQ40TZkPjaEVD^0
+Z23 V<QY7a<bZcE2zkm@S8R=VO3
+R4
+R5
+R16
+R17
+L0 29
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+vfullaader_vlg_vec_tst
+!i10b 1
+!s100 m][lcPW6CGb2doGjPJH=O3
+I=Z;N:2;Sm6=;265`niWhH3
+Z24 V_Y:0=j5_12lWiD_?lFL8P2
+R4
+R5
+R16
+R17
+Z25 L0 183
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10

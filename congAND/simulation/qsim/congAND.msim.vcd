@@ -1,0 +1,112 @@
+$comment
+	File created using the following command:
+		vcd file congAND.msim.vcd -direction
+$end
+$date
+	Thu Oct 26 00:11:20 2023
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module congAND_vlg_vec_tst $end
+$var reg 1 ! in1 $end
+$var reg 1 " in2 $end
+$var wire 1 # pin_name1 $end
+$var wire 1 $ sampler $end
+$scope module i1 $end
+$var wire 1 % gnd $end
+$var wire 1 & vcc $end
+$var wire 1 ' unknown $end
+$var tri1 1 ( devclrn $end
+$var tri1 1 ) devpor $end
+$var tri1 1 * devoe $end
+$var wire 1 + in1~combout $end
+$var wire 1 , in2~combout $end
+$var wire 1 - inst~combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+x$
+0%
+1&
+x'
+1(
+1)
+1*
+0+
+0,
+0-
+$end
+#100000
+1!
+1"
+1+
+1,
+0$
+1-
+1#
+#180000
+0!
+0"
+0+
+0,
+1$
+0-
+0#
+#220000
+1!
+1+
+0$
+#300000
+0!
+0+
+1$
+#350000
+1"
+1,
+0$
+#390000
+1!
+1+
+1$
+1-
+1#
+#420000
+0"
+0,
+0$
+0-
+0#
+#460000
+0!
+0+
+1$
+#500000
+1"
+1,
+0$
+#600000
+1!
+1+
+1$
+1-
+1#
+#680000
+0"
+0,
+0$
+0-
+0#
+#760000
+0!
+0+
+1$
+#1000000

@@ -1,0 +1,96 @@
+$comment
+	File created using the following command:
+		vcd file fullaader.msim.vcd -direction
+$end
+$date
+	Fri Oct 27 00:35:36 2023
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module fullaader_vlg_vec_tst $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # cin $end
+$var wire 1 $ cout $end
+$var wire 1 % sum $end
+$var wire 1 & sampler $end
+$scope module i1 $end
+$var wire 1 ' gnd $end
+$var wire 1 ( vcc $end
+$var wire 1 ) unknown $end
+$var tri1 1 * devclrn $end
+$var tri1 1 + devpor $end
+$var tri1 1 , devoe $end
+$var wire 1 - cin~combout $end
+$var wire 1 . b~combout $end
+$var wire 1 / a~combout $end
+$var wire 1 0 comb~0_combout $end
+$var wire 1 1 WideOr0~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+0$
+0%
+x&
+0'
+1(
+x)
+1*
+1+
+1,
+0-
+0.
+0/
+00
+01
+$end
+#140000
+1!
+1/
+0&
+10
+1%
+#220000
+0!
+0/
+1&
+00
+0%
+#280000
+1"
+1.
+0&
+10
+1%
+#330000
+1#
+1-
+1&
+11
+00
+1$
+0%
+#340000
+0"
+0.
+0&
+01
+10
+0$
+1%
+#390000
+0#
+0-
+1&
+00
+0%
+#1000000

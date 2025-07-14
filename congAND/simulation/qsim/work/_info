@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\FBGA project\simulation\qsim
+vcongAND
+Z1 I6:TZUWT<HMFAHEA5]@2h20
+Z2 Vl60]gW8lTcmc3j8n^UDG01
+Z3 dD:\FBGA project\simulation\qsim
+Z4 w1698253878
+Z5 8congAND.vo
+Z6 FcongAND.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 ncong@a@n@d
+!i10b 1
+Z10 !s100 E]Rm>A[INm9FniLKNUFdg2
+!s85 0
+Z11 !s108 1698253880.000000
+Z12 !s107 congAND.vo|
+Z13 !s90 -work|work|congAND.vo|
+!s101 -O0
+vcongAND_vlg_check_tst
+!i10b 1
+!s100 LA`l1Hj]`4Wi5lS1><>oa0
+Ic1znZE2c_0eD5Wi:hzRoo0
+V7?U2HemRm2Ez=_;L>7WO>1
+R3
+R4
+Z14 8congAND.vt
+Z15 FcongAND.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z16 !s108 1698253880.073000
+Z17 !s107 congAND.vt|
+Z18 !s90 -work|work|congAND.vt|
+!s101 -O0
+R8
+ncong@a@n@d_vlg_check_tst
+vcongAND_vlg_sample_tst
+!i10b 1
+!s100 ]AhP:?JnnFSV@4]<A6LZ11
+IXTEiF_L@Gglgd8iCmQ>IJ3
+V>9m[clnQM^GeTm92g5OQ[3
+R3
+R4
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+ncong@a@n@d_vlg_sample_tst
+vcongAND_vlg_vec_tst
+!i10b 1
+!s100 6_cSh_DMGOh8zMZTRR46C3
+IXFR_o89C48:TlZ8T`6kiV1
+VO9`Qdh7RW6VK`n6Bj_8ka3
+R3
+R4
+R14
+R15
+L0 154
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+ncong@a@n@d_vlg_vec_tst
